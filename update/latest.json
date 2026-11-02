@@ -1,12 +1,12 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "minShell": "1.4.0",
-  "file": "app-1.4.0.html",
-  "sha256": "f161d30316eb22a9dec4673f841983c56b1d2197c6f48fc5b0f1461cd1c004e4",
-  "sig": "CodQtgsqZKvJFPb22sdkkGYgGz+nsAudBbPzsmPEAmGLqzmZGp+WbENMTMgOEnEn/BeKYiowrfZgxN51MVtMAg==",
+  "file": "app-1.4.1.html",
+  "sha256": "ca775c42f09b236f6dc0dfabba5c8d0dadeeb5f80897523d9d2b736c841bcff1",
+  "sig": "mbV1SyWVKIs7z9ei56LxeLPOu7+8uRko6+E3qLsp4j2Z6OXPU2DMBMDElwADpPzL8095yXP4kUHop3KEVeWFCg==",
   "notes": {
-    "cs": "",
-    "en": ""
+    "cs": "Nová trať: Mount Panorama (Bathurst), Austrálie – s mapou, zatáčkami a vlajkou.",
+    "en": "New track: Mount Panorama (Bathurst), Australia, with track map, turns and flag."
   },
   "installer": {
     "version": "1.4.0",
