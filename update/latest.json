@@ -1,12 +1,12 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "minShell": "1.4.0",
-  "file": "app-1.5.0.html",
-  "sha256": "2586bdd0a527ec06ce4a3f0d7511ad91e0fcee89afc66a8f251141bd3d24b8c8",
-  "sig": "JZS+11kxyoYV/n8wZ6kl1LCmos2/w+E1pTuPibk8uwEWzt3IAxVQ1YtVI6RNy1Jx92D6cHwZyMsxrfH2dN9UAw==",
+  "file": "app-1.5.1.html",
+  "sha256": "e547357c9460b07b9e065355e48870b6ff845a21d4e27033ca8bc8526e6ec9fe",
+  "sig": "9gVePwRCIo+Gzh6wv0+OVoWRauxfbdooFwsV988wusz52JzXuFk2QFydqjVZzQmcAH8M3zUMCPV/Y05PaMOZBw==",
   "notes": {
-    "cs": "Velká aktualizace: profily jezdců s fotkami, rekordy a historií, týmové souboje (H2H), loga týmů, volný jezdec / konec kariéry a nová sekce O aplikaci.",
-    "en": "Big update: driver profiles with photos, records and history, teammate head-to-head, team logos, free agent / retired options and a new About section."
+    "cs": "Nová trať: Kalinago Circuit – smyšlený okruh s mapou, 19 zatáčkami, startem a cílem a sektory.",
+    "en": "New track: Kalinago Circuit, a fictional circuit with a track map, all 19 turns, the start/finish line and sectors."
   },
   "installer": {
     "version": "1.4.0",
