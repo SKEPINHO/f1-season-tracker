@@ -1,12 +1,12 @@
 {
-  "version": "1.4.5",
+  "version": "1.5.0",
   "minShell": "1.4.0",
-  "file": "app-1.4.5.html",
-  "sha256": "c5d9e7b4e6071b52e7776030a0d9f2bd98379e02971710b8781e5a93d384c284",
-  "sig": "2DZ5ik4rwVDP/4D4KrE0ujBuVlr+CkS/AbEIkfEK8hoZ8wnSAaJOdxWVTz3GffvxYxY+ifSLNg8eTyutU0ibCA==",
+  "file": "app-1.5.0.html",
+  "sha256": "2586bdd0a527ec06ce4a3f0d7511ad91e0fcee89afc66a8f251141bd3d24b8c8",
+  "sig": "JZS+11kxyoYV/n8wZ6kl1LCmos2/w+E1pTuPibk8uwEWzt3IAxVQ1YtVI6RNy1Jx92D6cHwZyMsxrfH2dN9UAw==",
   "notes": {
-    "cs": "Po každé aktualizaci se teď ukáže okno s novinkami.",
-    "en": "After every update, a window now shows what’s new."
+    "cs": "Velká aktualizace: profily jezdců s fotkami, rekordy a historií, týmové souboje (H2H), loga týmů, volný jezdec / konec kariéry a nová sekce O aplikaci.",
+    "en": "Big update: driver profiles with photos, records and history, teammate head-to-head, team logos, free agent / retired options and a new About section."
   },
   "installer": {
     "version": "1.4.0",
