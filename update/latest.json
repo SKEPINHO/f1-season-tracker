@@ -1,12 +1,12 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "minShell": "1.4.0",
-  "file": "app-1.4.2.html",
-  "sha256": "f8475c70d5b65960876dc62cf2028189bfbca8d0875f5ea09b7e54dc6f8250b7",
-  "sig": "lmFzL6w+WSKDcd1FwWy/bLegKtL0oWtdR2jl2ZnLjbYyrKWmUz7MRFT62+M/msX8Bp4AGAgTDYbWv1M+PUgwAQ==",
+  "file": "app-1.4.3.html",
+  "sha256": "c8f22a4b3489b04022f0766f05c9ab22c9db053e6dd862e151ddf3145b6823de",
+  "sig": "1rNlksOGTFCS3nF46oxseFXluFIuzSOhO2dJbx0aGuYhXEi22HoZVRZ+AGEnk+o8qNzmKO9CY8dhhlB4ItTACQ==",
   "notes": {
-    "cs": "Nová trať: Adelaide Street Circuit, Austrálie – s mapou, zatáčkami a vlajkou.",
-    "en": "New track: Adelaide Street Circuit, Australia, with track map, turns and flag."
+    "cs": "Anonymní statistiky používání (jen čas v aplikaci a návraty, bez jmen a obsahu kariér). Dají se vypnout v Nastavení sezóny → O aplikaci.",
+    "en": "Anonymous usage statistics (only time in the app and return visits, no names or career data). You can turn them off in Season settings → About."
   },
   "installer": {
     "version": "1.4.0",
