@@ -1,12 +1,12 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "minShell": "1.4.0",
-  "file": "app-1.4.1.html",
-  "sha256": "ca775c42f09b236f6dc0dfabba5c8d0dadeeb5f80897523d9d2b736c841bcff1",
-  "sig": "mbV1SyWVKIs7z9ei56LxeLPOu7+8uRko6+E3qLsp4j2Z6OXPU2DMBMDElwADpPzL8095yXP4kUHop3KEVeWFCg==",
+  "file": "app-1.4.2.html",
+  "sha256": "f8475c70d5b65960876dc62cf2028189bfbca8d0875f5ea09b7e54dc6f8250b7",
+  "sig": "lmFzL6w+WSKDcd1FwWy/bLegKtL0oWtdR2jl2ZnLjbYyrKWmUz7MRFT62+M/msX8Bp4AGAgTDYbWv1M+PUgwAQ==",
   "notes": {
-    "cs": "Nová trať: Mount Panorama (Bathurst), Austrálie – s mapou, zatáčkami a vlajkou.",
-    "en": "New track: Mount Panorama (Bathurst), Australia, with track map, turns and flag."
+    "cs": "Nová trať: Adelaide Street Circuit, Austrálie – s mapou, zatáčkami a vlajkou.",
+    "en": "New track: Adelaide Street Circuit, Australia, with track map, turns and flag."
   },
   "installer": {
     "version": "1.4.0",
