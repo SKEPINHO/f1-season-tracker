@@ -1,12 +1,12 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "minShell": "1.4.0",
-  "file": "app-1.5.1.html",
-  "sha256": "e547357c9460b07b9e065355e48870b6ff845a21d4e27033ca8bc8526e6ec9fe",
-  "sig": "9gVePwRCIo+Gzh6wv0+OVoWRauxfbdooFwsV988wusz52JzXuFk2QFydqjVZzQmcAH8M3zUMCPV/Y05PaMOZBw==",
+  "file": "app-1.5.2.html",
+  "sha256": "39a170af33f4f783925e1340322668d622a48aed326805ef4766f94a21383daf",
+  "sig": "APVa2BF07MxWgkgtFBVeaZoCg4kt4xTlC18p1fI38Ose8TvRaOkl9sduDa3QpnHAtPArvBWiyv7rSdkwoD2WBg==",
   "notes": {
-    "cs": "Nová trať: Kalinago Circuit – smyšlený okruh s mapou, 19 zatáčkami, startem a cílem a sektory.",
-    "en": "New track: Kalinago Circuit, a fictional circuit with a track map, all 19 turns, the start/finish line and sectors."
+    "cs": "11 nových tratí: Le Mans, KymiRing, Oschersleben, Ain-Diab, Interlagos obráceně a fanouškovské okruhy Vall d’Uixó, Varšava, New York, Cancún, Guernsey a Qiddiya.",
+    "en": "11 new tracks: Le Mans, KymiRing, Oschersleben, Ain-Diab, Interlagos reversed and the fan-made Vall d’Uixó, Warsaw, New York, Cancún, Guernsey and Qiddiya circuits."
   },
   "installer": {
     "version": "1.4.0",
