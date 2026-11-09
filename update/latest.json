@@ -1,15 +1,15 @@
 {
-  "version": "1.5.2",
-  "minShell": "1.4.0",
-  "file": "app-1.5.2.html",
-  "sha256": "39a170af33f4f783925e1340322668d622a48aed326805ef4766f94a21383daf",
-  "sig": "APVa2BF07MxWgkgtFBVeaZoCg4kt4xTlC18p1fI38Ose8TvRaOkl9sduDa3QpnHAtPArvBWiyv7rSdkwoD2WBg==",
+  "version": "2.0.0",
+  "minShell": "2.0.0",
+  "file": "app-2.0.0.html",
+  "sha256": "98b6165efe6b962523478a5c5ba300cde6de68aa19c1c5593bf5ff5378d595b0",
+  "sig": "J2j48wgU2CYvBHVhftrqdK78HA1DZGCZ2UGzJVjz0pNp9a9Ap2dWQyF3dlhccHBuiFuIiDeTWGKHbn/nTEMdDw==",
   "notes": {
-    "cs": "11 nových tratí: Le Mans, KymiRing, Oschersleben, Ain-Diab, Interlagos obráceně a fanouškovské okruhy Vall d’Uixó, Varšava, New York, Cancún, Guernsey a Qiddiya.",
-    "en": "11 new tracks: Le Mans, KymiRing, Oschersleben, Ain-Diab, Interlagos reversed and the fan-made Vall d’Uixó, Warsaw, New York, Cancún, Guernsey and Qiddiya circuits."
+    "cs": "Velká aktualizace 2.0: výsledky ze screenshotu, rekapitulace sezóny, šance na titul, náhled závodu, zpět/znovu, zálohy a mnohem víc. Je potřeba stáhnout novou instalačku z OverTake, kariéry zůstanou.",
+    "en": "Big update 2.0: results from a screenshot, season recap, title chances, race preview, undo/redo, backups and much more. You need to download the new installer from OverTake; your careers stay."
   },
   "installer": {
-    "version": "1.4.0",
+    "version": "2.0.0",
     "url": "https://www.overtake.gg/downloads/87818/"
   }
 }
