@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "minShell": "2.0.0",
-  "file": "app-2.0.0.html",
-  "sha256": "98b6165efe6b962523478a5c5ba300cde6de68aa19c1c5593bf5ff5378d595b0",
-  "sig": "J2j48wgU2CYvBHVhftrqdK78HA1DZGCZ2UGzJVjz0pNp9a9Ap2dWQyF3dlhccHBuiFuIiDeTWGKHbn/nTEMdDw==",
+  "file": "app-2.0.1.html",
+  "sha256": "ceec34adbfef949ca2445af5b9ae3407d54b712487d5add2fb9569bf3b22c5f4",
+  "sig": "2nG8ZZDKhsr/vwVMj+TAbNUSpBqn8hYeHnZBYaF4pURcK60Y8PEbQKjDBCU1c8ID6vlR9KQzU0DrK4i9gbxEBQ==",
   "notes": {
-    "cs": "Velká aktualizace 2.0: výsledky ze screenshotu, rekapitulace sezóny, šance na titul, náhled závodu, zpět/znovu, zálohy a mnohem víc. Je potřeba stáhnout novou instalačku z OverTake, kariéry zůstanou.",
-    "en": "Big update 2.0: results from a screenshot, season recap, title chances, race preview, undo/redo, backups and much more. You need to download the new installer from OverTake; your careers stay."
+    "cs": "Nová trať: Scandinavian Raceway (Anderstorp, Švédsko) s mapou.",
+    "en": "New track: Scandinavian Raceway (Anderstorp, Sweden) with a track map."
   },
   "installer": {
     "version": "2.0.0",
