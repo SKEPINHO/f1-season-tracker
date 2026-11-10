@@ -1,12 +1,12 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "minShell": "2.0.0",
-  "file": "app-2.0.1.html",
-  "sha256": "ceec34adbfef949ca2445af5b9ae3407d54b712487d5add2fb9569bf3b22c5f4",
-  "sig": "2nG8ZZDKhsr/vwVMj+TAbNUSpBqn8hYeHnZBYaF4pURcK60Y8PEbQKjDBCU1c8ID6vlR9KQzU0DrK4i9gbxEBQ==",
+  "file": "app-2.0.2.html",
+  "sha256": "a53decff2bf779f3137c53522c7aa647d884ad4ddf12a1251a4cea33581ee4bc",
+  "sig": "TXZwzX0j1KiYn45TnPDEDqHe8vldKVrLhnfa7BkmavaQYiixQVJ7vx7PtBL3DHQThEecR3ehZWwYjRfmKwCOAQ==",
   "notes": {
-    "cs": "Nová trať: Scandinavian Raceway (Anderstorp, Švédsko) s mapou.",
-    "en": "New track: Scandinavian Raceway (Anderstorp, Sweden) with a track map."
+    "cs": "Nové tratě: Masarykův okruh v Brně (Velká cena České republiky) s mapou a smyšlený Los Angeles Street Circuit.",
+    "en": "New tracks: Masaryk Circuit in Brno (Czech Grand Prix) with a track map and the fictional Los Angeles Street Circuit."
   },
   "installer": {
     "version": "2.0.0",
