@@ -1,12 +1,12 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "minShell": "2.0.0",
-  "file": "app-2.0.2.html",
-  "sha256": "a53decff2bf779f3137c53522c7aa647d884ad4ddf12a1251a4cea33581ee4bc",
-  "sig": "TXZwzX0j1KiYn45TnPDEDqHe8vldKVrLhnfa7BkmavaQYiixQVJ7vx7PtBL3DHQThEecR3ehZWwYjRfmKwCOAQ==",
+  "file": "app-2.0.3.html",
+  "sha256": "cbf22f86370005c79565c698b8b9d95f09512449ef52e3ec08db67b7abf25888",
+  "sig": "MlHYOtsrpdvUCSIJlp15Zd/sCWlFDTTuU9uHDP4ccbg5aWB/RXRQFpMrAcK+JScaD8GCLm2XEEjHc7AHZOWTDQ==",
   "notes": {
-    "cs": "Nové tratě: Masarykův okruh v Brně (Velká cena České republiky) s mapou a smyšlený Los Angeles Street Circuit.",
-    "en": "New tracks: Masaryk Circuit in Brno (Czech Grand Prix) with a track map and the fictional Los Angeles Street Circuit."
+    "cs": "Guernsey Street Circuit má správnou vlajku Guernsey.",
+    "en": "Guernsey Street Circuit now shows the flag of Guernsey."
   },
   "installer": {
     "version": "2.0.0",
