@@ -1,12 +1,12 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "minShell": "2.0.0",
-  "file": "app-2.0.3.html",
-  "sha256": "cbf22f86370005c79565c698b8b9d95f09512449ef52e3ec08db67b7abf25888",
-  "sig": "MlHYOtsrpdvUCSIJlp15Zd/sCWlFDTTuU9uHDP4ccbg5aWB/RXRQFpMrAcK+JScaD8GCLm2XEEjHc7AHZOWTDQ==",
+  "file": "app-2.0.4.html",
+  "sha256": "fd1d1f532a88fd77c68c2c78d5e0ba4ceeed32e0d0d56cfa6f46184ce2138da2",
+  "sig": "Z3Rd/LXV4Wkot0WURfIHScdwU3qhNvHG/K0Np/VpkJgI3LImYdmBuXeGAUBViIbH3aVKNKsTE0gTXAUbmQdjAg==",
   "notes": {
-    "cs": "Guernsey Street Circuit má správnou vlajku Guernsey.",
-    "en": "Guernsey Street Circuit now shows the flag of Guernsey."
+    "cs": "Nová trať Long Beach Street Circuit s mapou a mapy tratí pro Guernsey, New York a Los Angeles.",
+    "en": "New track: Long Beach Street Circuit with a track map, plus track maps for Guernsey, New York and Los Angeles."
   },
   "installer": {
     "version": "2.0.0",
